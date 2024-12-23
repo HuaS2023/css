@@ -22,9 +22,6 @@
 */
 
 /* .vfrc-header {} */
-.vfrc-header {
-  display: none;
-}
 
 /* .vfrc-assistant-info {} */
 
@@ -119,6 +116,10 @@
 
 /* .vfrc-footer--watermark {} */
 
+/* hide the header */
+.vfrc-header {
+  display: none;
+}
 
  /* 隐藏按钮原有的文本 */
   .vfrc-button{
